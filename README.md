@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<!-- GAMBAR MATA HACKER BERKEDIP (LINK SUPER STABIL) -->
+<!-- GAMBAR MATA HACKER (LINK SERVER GITHUB - 100% STABIL) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/eyes.gif" alt="Hacker Eye" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker Eye" width="250" />
 </p>
 
 ```bash
