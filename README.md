@@ -6,9 +6,8 @@
   </a>
 </p>
 
-<!-- INI ADALAH MATA BINER YANG BERKEDIP -->
 <p align="center">
-  <img src="https://i.giphy.com/...Y2lkPTc5MGI3NjExM3ZxZzZ5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye Blinking" width="300" />
+  <img src="https://media.giphy.com/media/xUOrw5E5U2h1g5H5u0/giphy.gif" alt="Hacker Eye Blinking" width="250" />
 </p>
 
 ```bash
@@ -19,8 +18,3 @@ akira@github:~$ ./run_profile.sh
 [+] OS         : Samsung J2 prem
 [+] Skills     : Mangan, Turu
 [+] Status     : Root access acquired.
-
-<p align="center">
-  <i>"There is no data you can retrieve"</i>
-</p>
-```
