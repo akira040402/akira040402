@@ -6,9 +6,10 @@
   </a>
 </p>
 
+<!-- MATA BINER YANG BERKEDIP -->
 <p align="center">
   <a href="https://github.com/akira040402">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=180&lines=++++++011111111110++++++;++++10000000000001++++;+++100001111000001+++;+++100001111000001+++;++++10000000000001++++;++++++011111111110++++++;++++++++00000000++++++++;++++++++00000000++++++++;+++++++0111111110+++++++;++++++100000000001++++++" alt="Typing Binary Eye" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=400&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=100&lines=%5B+011111111110+%5D;%5B+000000000000+%5D;%5B+------------+%5D;%5B+000000000000+%5D;%5B+011111111110+%5D;%5B+SCANNING...%5D" alt="Blinking Eye" />
   </a>
 </p>
 
