@@ -6,6 +6,7 @@
   </a>
 </p>
 
+<!-- GAMBAR MATA HACKER (LINK STABIL DARI GITHUB) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/tim-hub/tim-hub/main/eye.gif" alt="Hacker Eye" width="300" />
 </p>
