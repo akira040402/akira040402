@@ -6,9 +6,8 @@
   </a>
 </p>
 
-<!-- GAMBAR MATA HACKER YANG BERKEDIP OTOMATIS -->
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye" width="300" />
+  <img src="https://raw.githubusercontent.com/tim-hub/tim-hub/main/eye.gif" alt="Hacker Eye" width="300" />
 </p>
 
 ```bash
