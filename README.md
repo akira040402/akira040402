@@ -6,18 +6,10 @@
   </a>
 </p>
 
-<div align="center">
-<pre style="background-color: #000000; color: #00FF00; padding: 20px; border-radius: 8px; font-family: monospace; font-size: 14px; display: inline-block; text-align: center; line-height: 1.2;">
-       .01111111111110.
-     .010000000000000010.
-    01000000001111000000010
-   010000000110011000000010
-   010000000110011000000010
-    01000000001111000000010
-     '010000000000000010'
-       '01111111111110'
-</pre>
-</div>
+<!-- INI ADALAH MATA BINER YANG BERKEDIP -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxZzZ5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye Blinking" width="300" />
+</p>
 
 ```bash
 akira@github:~$ ./run_profile.sh
@@ -27,3 +19,8 @@ akira@github:~$ ./run_profile.sh
 [+] OS         : Samsung J2 prem
 [+] Skills     : Mangan, Turu
 [+] Status     : Root access acquired.
+
+<p align="center">
+  <i>"There is no data you can retrieve"</i>
+</p>
+```
