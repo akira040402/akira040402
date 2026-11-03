@@ -8,7 +8,7 @@
 
 <!-- INI ADALAH MATA BINER YANG BERKEDIP -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxZzZ5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye Blinking" width="300" />
+  <img src="https://i.giphy.com/...Y2lkPTc5MGI3NjExM3ZxZzZ5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xZ3Z5eW9xJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye Blinking" width="300" />
 </p>
 
 ```bash
