@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<!-- GANTI "mata.gif" DENGAN NAMA FILE GAMBAR YANG KAMU UPLOAD TADI -->
+<!-- GIF HACKER DARI TENOR -->
 <p align="center">
-  <img src="mata.gif" alt="Hacker Eye" width="250" />
+  <img src="https://media.tenor.com/14050942525941383471/tenor.gif" alt="Hacker GIF" width="300" />
 </p>
 
 ```bash
