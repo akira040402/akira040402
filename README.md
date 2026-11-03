@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOrw5E5U2h1g5H5u0/giphy.gif" alt="Hacker Eye Blinking" width="250" />
+  <a href="https://github.com/akira040402">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=180&lines=++++++011111111110++++++;++++10000000000001++++;+++100001111000001+++;+++100001111000001+++;++++10000000000001++++;++++++011111111110++++++;++++++++00000000++++++++;++++++++00000000++++++++;+++++++0111111110+++++++;++++++100000000001++++++" alt="Typing Binary Eye" />
+  </a>
 </p>
 
 ```bash
