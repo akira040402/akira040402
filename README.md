@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<!-- GAMBAR MATA HACKER (LINK SERVER GITHUB - 100% STABIL) -->
+<!-- GANTI "mata.gif" DENGAN NAMA FILE GAMBAR YANG KAMU UPLOAD TADI -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker Eye" width="250" />
+  <img src="mata.gif" alt="Hacker Eye" width="250" />
 </p>
 
 ```bash
