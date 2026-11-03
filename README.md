@@ -15,10 +15,3 @@ akira@github:~$ ./run_profile.sh
 [+] Skills     : Python, Bash, HTML, C++
 [+] Status     : Root access acquired.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irul312510110&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Akira's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irul312510110&theme=dark&hide_border=true&fire=00FF00&ring=00FF00&currStreakNum=00FF00" alt="Akira's Streak" />
-</p>
