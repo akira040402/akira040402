@@ -21,3 +21,5 @@ akira@github:~$ ./run_profile.sh
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=100&lines=%5B+0011111100+%5D;%5B+01++++++10+%5D;%5B+00++00++00+%5D;%5B+BLINKING+EYE+%5D;%5B+0100000001+%5D;%5B+0011111100+%5D" alt="Typing SVG" />
   </a>
 </p>
+
+
