@@ -1,4 +1,4 @@
-<h1 align="center"> SYSTEM ACCESS: GRANTED </h1>
+<h1 align="center">👨‍💻 SYSTEM ACCESS: GRANTED 👨‍💻</h1>
 
 <p align="center">
   <a href="https://github.com/irul312510110">
@@ -16,7 +16,9 @@ akira@github:~$ ./run_profile.sh
 [+] Status     : Root access acquired.
 
 <p align="center">
-  <a href="https://github.com/irul312510110">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=root%40akira%3A~%23+whoami;AKIRA;root%40akira%3A~%23+cat+status.txt;Accessing+Mainframe...;Hacking+the+Planet...;Access+Granted." alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=irul312510110&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Akira's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irul312510110&theme=dark&hide_border=true&fire=00FF00&ring=00FF00&currStreakNum=00FF00" alt="Akira's Streak" />
 </p>
