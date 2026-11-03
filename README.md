@@ -6,11 +6,9 @@
   </a>
 </p>
 
-<!-- MATA BINER YANG BERKEDIP -->
+<!-- GAMBAR MATA HACKER YANG BERKEDIP OTOMATIS -->
 <p align="center">
-  <a href="https://github.com/akira040402">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=400&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=100&lines=%5B+011111111110+%5D;%5B+000000000000+%5D;%5B+------------+%5D;%5B+000000000000+%5D;%5B+011111111110+%5D;%5B+SCANNING...%5D" alt="Blinking Eye" />
-  </a>
+  <img src="https://i.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hacker Eye" width="300" />
 </p>
 
 ```bash
